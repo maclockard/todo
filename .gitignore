@@ -1,6 +1,7 @@
 # Rust
+target
 server/target
-server/**/*.rs.bk
+**/*.rs.bk
 
 # Typescript
 ui/node_modules
