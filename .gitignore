@@ -5,8 +5,7 @@ server/**/*.rs.bk
 # Typescript
 ui/node_modules
 ui/lib
-
-# Yarn
+.awcache
 yarn-error.log
 
 # Mac

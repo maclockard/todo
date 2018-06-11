@@ -1,6 +1,8 @@
 [package]
 name = "todo-server"
 version = "0.1.0"
-authors = ["Mac Lockard <mlockard@palantir.com>"]
+authors = ["Mac Lockard <maclockard@gmail.com>"]
 
 [dependencies]
+web-view = "0.2.1"
+

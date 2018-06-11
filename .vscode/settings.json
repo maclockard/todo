@@ -1,0 +1,15 @@
+{
+  "files.trimTrailingWhitespace": true,
+  "editor.tabSize": 4,
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    ".git": true,
+    "ui/node_modules": true,
+    "ui/lib": true,
+    "*.d.ts": true,
+    "server/target": true
+  },
+  "tslint.configFile": "./ui/config/tslint.json",
+  "typescript.tsdk": "./ui/node_modules/typescript/lib",
+  "tslint.autoFixOnSave": true
+}
