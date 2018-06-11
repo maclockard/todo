@@ -1,0 +1,10 @@
+{
+  "name": "todo-ui",
+  "version": "0.1.0",
+  "description": "Front end of the todo application",
+  "main": "lib/index.js",
+  "repository": "https://github.com/maclockard/todo",
+  "author": "Mac Lockard",
+  "license": "MIT",
+  "private": true
+}

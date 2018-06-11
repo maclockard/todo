@@ -1,0 +1,14 @@
+# Rust
+server/target
+server/**/*.rs.bk
+
+# Typescript
+ui/node_modules
+ui/lib
+
+# Yarn
+yarn-error.log
+
+# Mac
+.DS_Store
+
