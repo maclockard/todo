@@ -6,8 +6,9 @@
     ".git": true,
     "ui/node_modules": true,
     "ui/lib": true,
+    "ui/.awcache": true,
     "*.d.ts": true,
-    "server/target": true
+    "**/target": true
   },
   "tslint.configFile": "./ui/config/tslint.json",
   "typescript.tsdk": "./ui/node_modules/typescript/lib",

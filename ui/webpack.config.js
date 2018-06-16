@@ -17,7 +17,9 @@ const basePlugins = [
         exclude: /.js|node_modules/,
         failOnError: true,
     }),
-    new HtmlWebpackPlugin(),
+    new HtmlWebpackPlugin({
+        template: path.resolve(__dirname, "./src/index.html"),
+    }),
 ];
 
 const devPlugins = basePlugins;

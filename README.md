@@ -1,2 +1,2 @@
 # todo
-A simple desktop todo application
+A simple desktop to do application

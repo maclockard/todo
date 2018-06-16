@@ -1,5 +1,3 @@
-function run() {
-    console.log("hi");
-}
+import { run } from "./run";
 
 run();
